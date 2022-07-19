@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyHelloWorld</string>
+    <string name="helloText">OK.</string>
+    <string name="rollDice">roll</string>
+    <string name="textRoll">Roll Dice</string>
+    <string name="playerName">Player 1</string>
+    <string name="diceRules">Titan has a dice rolling rule that stipulates
+        /n/nif you roll too many dice, you need to record the result then
+        /n/nroll the correct amount of dice. The result from the re-roll
+        /n/ncannot be greater than the initial amount.</string>
+    <string name="UpdatePlayerName">Update</string>
+    <string name="editPlayerName">Type name here</string>
+</resources>
